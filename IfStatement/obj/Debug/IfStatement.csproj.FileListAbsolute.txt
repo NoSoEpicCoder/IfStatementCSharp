@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\bin\Debug\IfStatement.exe.config
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\bin\Debug\IfStatement.exe
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\bin\Debug\IfStatement.pdb
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.Form1.resources
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.Properties.Resources.resources
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.exe
+C:\Users\Kevin\source\repos\IfStatement\IfStatement\obj\Debug\IfStatement.pdb
